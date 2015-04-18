@@ -1,0 +1,9 @@
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEmpleado\AppEmpleado\bin\Debug\AppEmpleado.exe.config
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEmpleado\AppEmpleado\bin\Debug\AppEmpleado.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEmpleado\AppEmpleado\bin\Debug\AppEmpleado.pdb
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEmpleado\AppEmpleado\obj\Debug\AppEmpleado.Form1.resources
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEmpleado\AppEmpleado\obj\Debug\AppEmpleado.Properties.Resources.resources
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEmpleado\AppEmpleado\obj\Debug\AppEmpleado.csproj.GenerateResource.Cache
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEmpleado\AppEmpleado\obj\Debug\AppEmpleado.exe
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEmpleado\AppEmpleado\obj\Debug\AppEmpleado.pdb
+c:\users\lab104bpc6\documents\visual studio 2012\Projects\AppEmpleado\AppEmpleado\obj\Debug\AppEmpleado.csprojResolveAssemblyReference.cache
